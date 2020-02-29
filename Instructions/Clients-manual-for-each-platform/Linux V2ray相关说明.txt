@@ -1,2 +1,5 @@
 相信使用Linux的读者都有很强的自学能力，故没有编写，请读者朋友们自行Google搜索教程。
 
+在任何地方提任何问题之前首先要确保自己已经仔细研读过下面这篇文章至少三遍：
+https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md
+
